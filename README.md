@@ -12,13 +12,11 @@ How to use:
 <h1 align="center">Hi, I'm sher-l</h1>
 
 <p align="center">
-  I build reproducible workflows for transcriptomics, single-cell analysis, and survival modeling.
+  IKL.
 </p>
 
 <p align="center">
   <a href="https://orcid.org/0009-0007-8321-9786">
-    <img src="https://img.shields.io/badge/ORCID-0009--0007--8321--9786-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
-  </a>
   <a href="https://github.com/sher-l/iklSurvML">
     <img src="https://img.shields.io/badge/Project-iklSurvML-2563eb?style=flat-square&logo=github&logoColor=white" alt="iklSurvML" />
   </a>
@@ -27,20 +25,16 @@ How to use:
 
 ## About me
 
-- Focused on bioinformatics, survival analysis, and interpretable machine learning
-- Interested in bulk RNA-seq, scRNA-seq, and reproducible computational workflows
-- Building tools and analysis pipelines with R, Python, and Linux
+- INTP
 
 ## Current focus
 
-- Improving survival machine learning workflows in `iklSurvML`
-- Turning research analysis code into reusable, documented tools
-- Keeping analysis outputs reproducible and easier to validate
+- Dark Factory
 
 ## Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=r,python,linux,git,vscode,markdown" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=r,python,linux,git,vscode" alt="tech stack" />
 </p>
 
 ## Featured project
