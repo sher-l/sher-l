@@ -77,7 +77,6 @@ How to use:
 
 ## Contact
 
-- ORCID: https://orcid.org/0009-0007-8321-9786
 - GitHub: https://github.com/sher-l
 
 <!--
