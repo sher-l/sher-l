@@ -29,7 +29,6 @@ How to use:
 ## About me
 
 - Building tools and analysis pipelines with R, Python, and Linux
-- INTP
 
 ## Current focus
 
