@@ -1,19 +1,11 @@
-<!--
-How to use:
-1. Create a repository named `sher-l`
-2. Replace the repository README with this file
-3. Upload `banner-dark-photo-1280x320.png` to the same repository root
-4. Pin your best repositories on the profile page
--->
-
 <p align="center">
-  <img src="./Sherlock.png" alt="~$herlock header" />
+  <img src="./banner-dark-photo-1280x320.png" alt="~$herlock header" />
 </p>
 
 <h1 align="center">sher-l</h1>
 
 <p align="center">
-  IKL / INTP
+  IKL / INTP / Dark Factory
 </p>
 
 <p align="center">
@@ -29,6 +21,7 @@ How to use:
 ## About me
 
 - Building tools and analysis pipelines with R, Python, and Linux
+- INTP
 
 ## Current focus
 
@@ -69,12 +62,21 @@ How to use:
     alt="Top languages"
   />
 </p>
-## Activity overview
+
+## Activity
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sher-l&theme=github"
-    alt="GitHub profile activity overview"
+    height="165"
+    src="https://streak-stats.demolab.com?user=sher-l&hide_border=true&border_radius=18&background=F7F2FF&ring=F0A9C4&fire=F0A9C4&currStreakLabel=7B8EDC&sideLabels=6E7399&dates=8F95B5&currStreakNum=7B8EDC&sideNums=7B8EDC"
+    alt="GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sher-l&bg_color=F7F2FF&color=6E7399&line=9CB7EC&point=F0A9C4&area=true&area_color=E8DDF8&hide_border=true&radius=18"
+    alt="GitHub activity graph"
   />
 </p>
 
@@ -85,7 +87,6 @@ How to use:
 <!--
 Optional extras you can enable later:
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sher-l&theme=github-compact&hide_border=true" alt="activity graph" />
-</p>
+`profile-details` overview card:
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sher-l&theme=github
 -->
