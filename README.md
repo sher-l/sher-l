@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-dark-photo-1280x320.png" alt="~$herlock header" />
+  <img src="./Sherlock.png" alt="~$herlock header" />
 </p>
 
 <h1 align="center">sher-l</h1>
