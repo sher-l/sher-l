@@ -58,20 +58,14 @@
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sher-l&layout=compact&hide_border=true&bg_color=F7F2FF&title_color=7B8EDC&text_color=6E7399&border_radius=18"
-    alt="Top languages"
+    src="https://streak-stats.demolab.com?user=sher-l&hide_border=true&border_radius=18&background=F7F2FF&ring=F0A9C4&fire=F0A9C4&currStreakLabel=7B8EDC&sideLabels=6E7399&dates=8F95B5&currStreakNum=7B8EDC&sideNums=7B8EDC"
+    alt="GitHub streak"
   />
 </p>
 
 ## Activity
 
-<p align="center">
-  <img
-    height="165"
-    src="https://streak-stats.demolab.com?user=sher-l&hide_border=true&border_radius=18&background=F7F2FF&ring=F0A9C4&fire=F0A9C4&currStreakLabel=7B8EDC&sideLabels=6E7399&dates=8F95B5&currStreakNum=7B8EDC&sideNums=7B8EDC"
-    alt="GitHub streak"
-  />
-</p>
+
 
 <p align="center">
   <img
