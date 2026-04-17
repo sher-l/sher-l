@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <sub>Bioinformatics / Reproducible workflows / Survival modeling</sub>
-</p>
-
-<p align="center">
   <a href="https://orcid.org/0009-0007-8321-9786">
     <img src="https://img.shields.io/badge/ORCID-0009--0007--8321--9786-9CB7EC?style=for-the-badge&logo=orcid&logoColor=ffffff&labelColor=7EA9F0" alt="ORCID" />
   </a>
@@ -25,13 +21,11 @@
 ## About me
 
 - Building tools and analysis pipelines with R, Python, and Linux
-- Focused on transcriptomics, single-cell analysis, and reproducible computation
-- Prefer compact workflows, clear outputs, and low-noise engineering
+- INTP
 
 ## Current focus
 
-- Turning analysis code into reusable tools
-- Keeping research pipelines easier to validate and rerun
+- Dark Factory
 
 ## Tech stack
 
@@ -45,16 +39,16 @@
 
 ## Featured project
 
-<p align="center">
-  <a href="https://github.com/sher-l/iklSurvML"><strong>iklSurvML</strong></a>
-</p>
+<table>
+  <tr>
+    <td width="100%">
+      <a href="https://github.com/sher-l/iklSurvML"><b>iklSurvML</b></a><br />
+      High-performance survival machine learning in R with reproducible workflows, multiple algorithm combinations, and practical benchmarking.
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  High-performance survival machine learning in R with reproducible workflows,
-  practical benchmarking, and reusable analysis pipelines.
-</p>
-
-## Metrics
+## GitHub stats
 
 <p align="center">
   <img
@@ -69,6 +63,7 @@
   />
 </p>
 
+## Activity
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=sher-l&bg_color=F7F2FF&color=6E7399&line=9CB7EC&point=F0A9C4&area=true&area_color=E8DDF8&hide_border=true&radius=18"
@@ -77,11 +72,9 @@
 </p>
 
 ## Contact
-
 <p align="center">
   <a href="https://github.com/sher-l">GitHub</a> / <a href="https://orcid.org/0009-0007-8321-9786">ORCID</a>
 </p>
-
 <!--
 Optional extras you can enable later:
 
