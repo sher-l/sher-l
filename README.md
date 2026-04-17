@@ -69,6 +69,14 @@ How to use:
     alt="Top languages"
   />
 </p>
+## Activity overview
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sher-l&theme=github"
+    alt="GitHub profile activity overview"
+  />
+</p>
 
 ## Contact
 
