@@ -2,28 +2,28 @@
 How to use:
 1. Create a repository named `sher-l`
 2. Replace the repository README with this file
-3. Upload `banner-dark.svg` to the same repository root
+3. Upload `banner-dark-photo-1280x320.png` to the same repository root
 4. Pin your best repositories on the profile page
 -->
 
 <p align="center">
-  <img src="./banner-dark.svg" alt="header" />
+  <img src="./Sherlock.png" alt="~$herlock header" />
 </p>
 
-<h1 align="center">Hi, I'm sher-l</h1>
+<h1 align="center">sher-l</h1>
 
 <p align="center">
-IKL
+  IKL / INTP / Dark Factory
 </p>
 
 <p align="center">
   <a href="https://orcid.org/0009-0007-8321-9786">
-    <img src="https://img.shields.io/badge/ORCID-0009--0007--8321--9786-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
+    <img src="https://img.shields.io/badge/ORCID-0009--0007--8321--9786-9CB7EC?style=for-the-badge&logo=orcid&logoColor=ffffff&labelColor=7EA9F0" alt="ORCID" />
   </a>
   <a href="https://github.com/sher-l/iklSurvML">
-    <img src="https://img.shields.io/badge/Project-iklSurvML-2563eb?style=flat-square&logo=github&logoColor=white" alt="iklSurvML" />
+    <img src="https://img.shields.io/badge/Project-iklSurvML-F0C2D7?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=9CB7EC" alt="iklSurvML" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sher-l&style=flat-square&color=2563eb" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sher-l&style=for-the-badge&color=8EA8F2&label=views" alt="profile views" />
 </p>
 
 ## About me
@@ -37,8 +37,12 @@ IKL
 
 ## Tech stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=r,python,linux,git,vscode" alt="tech stack" />
+<p align="center">
+  <img src="https://img.shields.io/badge/R-7EA9F0?style=for-the-badge&logo=r&logoColor=ffffff" alt="R" />
+  <img src="https://img.shields.io/badge/Python-9CB7EC?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-A8B4F5?style=for-the-badge&logo=linux&logoColor=ffffff" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-C7B4E8?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-F0C2D7?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="VS Code" />
 </p>
 
 ## Featured project
@@ -55,28 +59,16 @@ IKL
 ## GitHub stats
 
 <p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=sher-l&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=sher-l&show_icons=true&hide_border=true&theme=default&rank_icon=github"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=sher-l&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sher-l&layout=compact&hide_border=true&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sher-l&layout=compact&hide_border=true&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sher-l&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
-  </picture>
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=sher-l&show_icons=true&hide_border=true&rank_icon=github&bg_color=F7F2FF&title_color=7B8EDC&text_color=6E7399&icon_color=F0A9C4&border_radius=18"
+    alt="GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sher-l&layout=compact&hide_border=true&bg_color=F7F2FF&title_color=7B8EDC&text_color=6E7399&border_radius=18"
+    alt="Top languages"
+  />
 </p>
 
 ## Contact
