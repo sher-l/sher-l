@@ -13,7 +13,7 @@ How to use:
 <h1 align="center">sher-l</h1>
 
 <p align="center">
-  IKL / INTP / Dark Factory
+  IKL / INTP
 </p>
 
 <p align="center">
