@@ -2,21 +2,24 @@
 How to use:
 1. Create a repository named `sher-l`
 2. Replace the repository README with this file
-3. Pin your best repositories on the profile page
+3. Upload `banner-dark.svg` to the same repository root
+4. Pin your best repositories on the profile page
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1d4ed8&height=180&section=header&text=~$herLock&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bioinformatics%20%7C%20Survival%20Analysis%20%7C%20R%20%26%20Python&descAlignY=58&descSize=18" alt="header" />
+  <img src="./banner-dark.svg" alt="header" />
 </p>
 
 <h1 align="center">Hi, I'm sher-l</h1>
 
 <p align="center">
-  IKL.
+IKL
 </p>
 
 <p align="center">
   <a href="https://orcid.org/0009-0007-8321-9786">
+    <img src="https://img.shields.io/badge/ORCID-0009--0007--8321--9786-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
   <a href="https://github.com/sher-l/iklSurvML">
     <img src="https://img.shields.io/badge/Project-iklSurvML-2563eb?style=flat-square&logo=github&logoColor=white" alt="iklSurvML" />
   </a>
@@ -25,6 +28,7 @@ How to use:
 
 ## About me
 
+- Building tools and analysis pipelines with R, Python, and Linux
 - INTP
 
 ## Current focus
