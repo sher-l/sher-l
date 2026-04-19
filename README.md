@@ -1,11 +1,8 @@
-<p align="center">
-  <img src="./Sherlock.png" alt="~$herlock header" />
-</p>
 
 <h1 align="center">sher-l</h1>
 
 <p align="center">
-  IKL / INTP / Dark Factory
+  IKL
 </p>
 
 <p align="center">
@@ -21,7 +18,7 @@
 ## About me
 
 - Building tools and analysis pipelines with R, Python, and Linux
-- INTP
+
 
 ## Current focus
 
