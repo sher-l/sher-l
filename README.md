@@ -9,8 +9,8 @@
   <a href="https://github.com/sher-l/iklSurvML">
     <img src="https://img.shields.io/badge/Project-iklSurvML-6FC7A4?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=2F7A5F" alt="iklSurvML" />
   </a>
-  <a href="https://sher-l.github.io/bio-dev/">
-    <img src="https://img.shields.io/badge/Skills-bio--dev-C8963E?style=for-the-badge&logo=githubpages&logoColor=ffffff&labelColor=12362C" alt="bio-dev" />
+  <a href="https://sher-l.github.io/ai-skills/">
+    <img src="https://img.shields.io/badge/Skills-ai--skills-C8963E?style=for-the-badge&logo=githubpages&logoColor=ffffff&labelColor=12362C" alt="ai-skills" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=sher-l&style=for-the-badge&color=2F7A5F&label=views" alt="profile views" />
 </p>
@@ -63,7 +63,7 @@
 
 ## Contact
 <p align="center">
-  <a href="https://github.com/sher-l">GitHub</a> / <a href="https://sher-l.github.io/">Blog</a> / <a href="https://sher-l.github.io/bio-dev/">bio-dev</a> / <a href="https://orcid.org/0009-0007-8321-9786">ORCID</a>
+  <a href="https://github.com/sher-l">GitHub</a> / <a href="https://sher-l.github.io/">Blog</a> / <a href="https://sher-l.github.io/ai-skills/">ai-skills</a> / <a href="https://orcid.org/0009-0007-8321-9786">ORCID</a>
 </p>
 <!--
 Optional extras you can enable later:
