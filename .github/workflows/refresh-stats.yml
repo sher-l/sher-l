@@ -1,0 +1,33 @@
+name: Refresh stats images
+
+# vercel.app 免费实例对 GitHub camo 的抓取经常限流导致 README 图裂开，
+# 因此由 Actions（美国机房，不受网络影响）定期生成静态 SVG 提交进仓库，
+# README 直接引用仓库内文件，不再依赖 vercel 实时可用性。
+on:
+  schedule:
+    - cron: "0 20 * * 0" # 每周一 04:00 (UTC+8)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch stats SVGs
+        run: |
+          curl -fsSL --retry 3 --retry-delay 5 -o stats.svg \
+            "https://github-readme-stats.vercel.app/api?username=sher-l&show_icons=true&hide_border=true&rank_icon=github&bg_color=FDFBF7&title_color=2F7A5F&text_color=5A6B62&icon_color=C8963E&border_radius=18"
+          curl -fsSL --retry 3 --retry-delay 5 -o graph.svg \
+            "https://github-readme-activity-graph.vercel.app/graph?username=sher-l&bg_color=FDFBF7&color=5A6B62&line=3C9373&point=C8963E&area=true&area_color=DCEFE6&hide_border=true&radius=18"
+
+      - name: Commit if changed
+        run: |
+          git config user.name "sher-l"
+          git config user.email "sher-l@users.noreply.github.com"
+          git add stats.svg graph.svg
+          git diff --cached --quiet || git commit -m "chore: refresh stats images"
+          git push

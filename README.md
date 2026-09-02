@@ -48,11 +48,7 @@
 ## GitHub stats
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=sher-l&show_icons=true&hide_border=true&rank_icon=github&bg_color=FDFBF7&title_color=2F7A5F&text_color=5A6B62&icon_color=C8963E&border_radius=18"
-    alt="GitHub stats"
-  />
+  <img height="165" src="stats.svg" alt="GitHub stats" />
   <img
     height="165"
     src="https://streak-stats.demolab.com?user=sher-l&hide_border=true&border_radius=18&background=FDFBF7&ring=C8963E&fire=C8963E&currStreakLabel=2F7A5F&sideLabels=5A6B62&dates=8B9A91&currStreakNum=2F7A5F&sideNums=2F7A5F"
@@ -62,10 +58,7 @@
 
 ## Activity
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sher-l&bg_color=FDFBF7&color=5A6B62&line=3C9373&point=C8963E&area=true&area_color=DCEFE6&hide_border=true&radius=18"
-    alt="GitHub activity graph"
-  />
+  <img src="graph.svg" alt="GitHub activity graph" />
 </p>
 
 ## Contact
